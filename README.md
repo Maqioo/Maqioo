@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mary "Muyys"</h1>
 <h3 align="center">noob programmer from Poland</h3>
 <center>
-<image src=https://discord.c99.nl/widget/theme-1/577584322517925891.png> </image>
 </center>
 
 
