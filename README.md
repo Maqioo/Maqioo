@@ -1,4 +1,4 @@
-```Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mary "Maqio"
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mary "Maqio"
 =====================================================================================================================================
 
 Beginner developer from Poland
@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/Maqioo?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/パキオ#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Paqlio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Paqlio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/パキオ#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Maqioo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Maqioo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -34,4 +34,4 @@ src="https://img.shields.io/github/followers/Maqioo?logo=github&style=for-the-ba
 <a href="http://www.github.com/Maqioo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Paqlio&bg_color=181824&color=64748b&line=ec4899&point=64748b&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Maqioo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paqlio&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-```
+
