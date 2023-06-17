@@ -27,11 +27,11 @@ src="https://img.shields.io/github/followers/Maqioo?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Maqioo"><img src="https://github-readme-stats.vercel.app/api?username=Paqlio&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="Paqlio's GitHub stats" /></a>
+<a href="http://www.github.com/Maqioo"><img src="https://github-readme-stats.vercel.app/api?username=Maqioo&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="Maqio's GitHub stats" /></a>
 
-<a href="http://www.github.com/Maqioo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Paqlio&stroke=64748b&background=181824&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/Maqioo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maqioo&stroke=64748b&background=181824&ring=ec4899&fire=ec4899&currStreakNum=64748b&currStreakLabel=ec4899&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/Maqioo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Paqlio&bg_color=181824&color=64748b&line=ec4899&point=64748b&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Maqioo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Maqioo&bg_color=181824&color=64748b&line=ec4899&point=64748b&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Maqioo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paqlio&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Maqioo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maqioo&langs_count=10&title_color=ec4899&text_color=64748b&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
