@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner developer from Poland
 ------------------------------
 
-* 🌍  I'm based in 127.0.0.1
-
 <a href="https://www.github.com/Maqioo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Maqioo?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
 
